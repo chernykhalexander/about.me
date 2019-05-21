@@ -1,0 +1,101 @@
+{
+	"fullName": "Черных Александр Сергеевич",
+	"sex": "M",
+	"dateOfBirth": "09-11-1985",
+	"city" : "Москва",
+	"country" : "Россия",
+	"phone" : "+7 916 213 85 96",
+	"email" : "chernykh@gmail.com",
+	"availability" :{
+		"from" : "10",
+		"to": "20",
+		"type": "HH"
+	},
+	"blog": "http://tduglas.blogspot.com",
+	"desiredPosition" : "Team leader/Senior Java",
+	"occupation": "full time",
+	"job schedule" : [ "remote work", "flexible time", "full day"],
+	"workSince" : "July 2006",
+	"experience": [
+		{ 
+			"from" : "November 2018",
+			"till" : null,
+			"company" : "АО «Управление Развитием Систем и Проектов»",
+			"location" : "Москва",
+			"country" : "Россия",
+			"jobTitle" : "Главный программист-разработчик",
+			"responsibilities" : [
+				"Внедрение практик автоматизации проектов (автоматизация управлением изменений в базе данных и процессов на базе BPM Activiti).",
+				"Курирование младших разработчиков, обеспечение профессионального роста с дальнейшим повышением.",
+				"Техническое ведение 3 проектов с применением микросервисной архитектуры на базе Spring Boot, Spring Cloud и Kotlin.",
+				"Повышение качества вверенных проектов с помощью введения модульного и интеграционного тестирования.",
+				"Проведение обзора кода.",
+				"Разработка UML диаграмм по существующим проектам с целью обеспечить общее понимание у всех участников проекта.",
+				"Проведение ретроспектив и daily Scrum встреч по проектам.",
+				"Взаимодействие с отделами аналитики, управления проектами, системных администраторов."
+			]
+		},
+		{
+			"from" : "February 2018",
+			"till" : "October 2018",
+			"company" : "CA Technologies",
+			"location" : "Прага",
+			"country" : "Чехия",
+			"jobTitle" : "Principal Software Engineer",
+			"responsibilities" : [
+				"Участие в разработке коробочного продукта для управления жизненным циклом тестовых данных предприятия.",
+				"Поддержка третьего уровня, расширение функционала (Java 8, Gradle, JUnit, Mockito, AssertJ, C#).",
+				"Работа в международной распределённой команде по методологии Kanban.",
+				"Приведение кода к состоянию, пригодному для тестирования.",
+				"Поддержка младших членов команды.",
+				"Участие в выпуске новых релизов ПО."
+			]
+		},
+		{
+			"from" : "February 2016",
+			"till" : "February 2018",
+			"company" : "GFT",
+			"location" : "Лодзь",
+			"country" : "Польша",
+			"jobTitle" : "Senior Software Engineer",
+			"responsibilities" : [
+				"Участие в 2-х Java проектах для банковского сектора.",
+				"Разработка Big Data проекта для обработки торговых сделок (Spring Boot, Java 8, Apache Camel, Apache Storm, Gradle, Maven, Spock, TDD approach, Mongo, Linux).",
+				"Участие в процессе обзора кода и выработка рекомендаций по обзору кода.",
+				"Разрешение проблем на стороне заказчика (напр., подключение к IBM MQ по SSL/TLS протоколу). ",
+				"Взаимодействие с бизнес-аналитиком заказчика и службой IT-поддержки на стороне заказчика.",
+				"Участие в оценке целесообразности использования программного средства MuleESB в проекте.",
+				"Работа в международной распределённой команде по Scrum of Scrums методологии.",
+				"Участие в проведении показов хода реализации проекта для заказчика.",
+				"Поддержка младших членов команды."
+			]
+		},
+		{
+			"from" : "July 2016",
+			"till" : "Augast 2016",
+			"company" : "Baeldung",
+			"jobTitle" : "Tutorials writer",
+			"responsibilities" : [
+				"Написание обучающих статей по Java и Spring.",
+				"http://www.baeldung.com/spring-boot-starters",
+				"http://www.baeldung.com/cdi-interceptor-vs-spring-aspectj"
+			]
+		},
+		{
+		  "from" : "March 2014",
+		  "till" : "March 2016",
+		  "company" : "ЗАО Проф-ИТ",
+		  "location" : "Москва",
+		  "country" : "Россия",
+		  "responsibilities" : [
+		  	  "Участие в 10-и Java проектах в сфере ГИС для государственных органов города Москвы.",
+		  	  "Backend разработка (IBM WebSphere Portal, Spring Portlet, Spring Core, JUnit, Apache POI, Liquibase, XML, XSLT, EJB3, JAX-RS, IBM BPM Process designer, SmartGWT, Apache Tomcat, Linux, JCA).",
+		  	  "Участие в разработке пользовательского интерфейса (ArcGIS JS, Backbone.js, JavaScript, CSS).",
+		  	  "Разработка отчётов с использованием IBM Cognos Framework Manager/Report Studio.",
+		  	  "DevOps (развёртывание, администрирование ПО IBM).",
+		  	  "Проектирование модели БД (DB2, Oracle).",
+		  	  "Участие в процессе обзора кода."
+		  ]
+		}
+	]
+}
