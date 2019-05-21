@@ -1,2 +1,2 @@
 # about.me
-см. cv.json
+см. me.json
